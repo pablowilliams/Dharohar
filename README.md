@@ -120,3 +120,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   Built with ❤️ by Pradeep Kumar Maurya
 </div>
+
+## Notes & Local Extensions
+
+- Cloned to explore the Firebase Auth flow and the project-submission CRUD.
+- Next steps: add server-side validation on project creation and a tag-based filter on the discovery page.
+- Credit: original project by [pradeepx-dev](https://github.com/pradeepx-dev/Dharohar).
